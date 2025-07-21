@@ -17,6 +17,18 @@
       "publisher": "ZIL",
       "name": "Service Module",
       "version": "1.0.0.0"
+    },
+    {
+      "id": "152208a0-9dc4-4a79-ba8f-28a5e99c99a1",
+      "publisher": "ZIL",
+      "name": "General Modifications",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "933ed0cc-49ae-4ce4-9acb-0ebc8d8dbc0d",
+      "publisher": "ZIL",
+      "name": "AR-Modifications",
+      "version": "1.0.0.0"
     }
 ],
   "screenshots": [],
