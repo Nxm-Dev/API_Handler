@@ -1,0 +1,34 @@
+{
+  "id": "337282ca-59c2-420c-a15f-a6d489d432ae",
+  "name": "API Handler",
+  "publisher": "NJ",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "This extension generates a token for the user to use in the application.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies":
+  [
+    {
+      "id": "097e30f1-15ab-4121-8468-f48eccb3cb42",
+      "publisher": "ZIL",
+      "name": "Service Module",
+      "version": "1.0.0.0"
+    }
+],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "24.5.23489.23968",
+
+  "idRanges": [
+    {
+      "from": 99950,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://FINAL_COSTING.com/help/",
+  "runtime": "14.0"
+}
